@@ -84,9 +84,13 @@ data.csv
 ##  Features Implemented
 
 ✔ Text preprocessing pipeline
+
 ✔ NLP feature extraction
+
 ✔ Model training & evaluation
+
 ✔ Performance measurement
+
 ✔ Healthcare analytics interpretation
 
 ---
@@ -137,10 +141,15 @@ Execute cells sequentially.
 ##  Workflow Summary
 
 1️⃣ Load dataset
+
 2️⃣ Clean & preprocess text
+
 3️⃣ Convert text → numerical features
+
 4️⃣ Train ML model
+
 5️⃣ Evaluate performance
+
 6️⃣ Interpret healthcare insights
 
 ---
@@ -148,8 +157,11 @@ Execute cells sequentially.
 ##  Key Learning Outcomes
 
 ✔ Unstructured medical text can be quantified
+
 ✔ NLP is critical for healthcare analytics
+
 ✔ Predictive models help early detection
+
 ✔ Data preprocessing strongly impacts results
 
 ---
