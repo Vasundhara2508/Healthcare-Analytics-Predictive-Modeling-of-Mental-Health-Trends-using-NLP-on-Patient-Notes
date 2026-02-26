@@ -196,10 +196,4 @@ Healthcare NLP projects must comply with:
 
 ---
 
-##  License
-
-For **academic / research use only**.
-
----
-
 
