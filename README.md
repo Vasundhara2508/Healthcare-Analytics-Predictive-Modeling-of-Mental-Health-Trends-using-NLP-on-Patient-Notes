@@ -33,7 +33,7 @@ We aim to:
 
 ##  Techniques Used
 
-### ✔ Natural Language Processing (NLP)
+### Natural Language Processing (NLP)
 
 * Text Cleaning & Normalization
 * Tokenization
@@ -156,13 +156,13 @@ Execute cells sequentially.
 
 ##  Key Learning Outcomes
 
-✔ Unstructured medical text can be quantified
+Unstructured medical text can be quantified
 
-✔ NLP is critical for healthcare analytics
+NLP is critical for healthcare analytics
 
-✔ Predictive models help early detection
+Predictive models help early detection
 
-✔ Data preprocessing strongly impacts results
+Data preprocessing strongly impacts results
 
 ---
 
