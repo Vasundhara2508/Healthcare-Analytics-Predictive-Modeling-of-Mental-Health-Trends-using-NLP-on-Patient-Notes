@@ -1,11 +1,11 @@
 
-# 🧠 Healthcare Analytics: Predictive Modeling of Mental Health Trends using NLP on Patient Notes
+#  Healthcare Analytics: Predictive Modeling of Mental Health Trends using NLP on Patient Notes
 
 This project applies **Natural Language Processing (NLP)** and **Machine Learning** techniques to analyze **clinical / patient notes** for detecting and predicting **mental health trends**. The objective is to transform unstructured medical text into meaningful insights that support healthcare decision-making.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Healthcare systems generate massive volumes of **unstructured textual data** (doctor notes, patient records, discharge summaries). These notes contain critical signals about mental health conditions but are difficult to analyze manually.
 
@@ -19,7 +19,7 @@ This project:
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Mental health indicators are often embedded in free-text clinical notes rather than structured fields. Traditional analytics miss these signals.
 
@@ -31,7 +31,7 @@ We aim to:
 
 ---
 
-## 🧠 Techniques Used
+##  Techniques Used
 
 ### ✔ Natural Language Processing (NLP)
 
@@ -43,7 +43,7 @@ We aim to:
 
 ---
 
-### ✔ Machine Learning Models
+###  Machine Learning Models
 
 Typical models explored may include:
 
@@ -54,7 +54,7 @@ Typical models explored may include:
 
 ---
 
-### ✔ Data Processing
+###  Data Processing
 
 * Handling missing values
 * Label encoding / target preparation
@@ -62,7 +62,7 @@ Typical models explored may include:
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The model expects a dataset containing:
 
@@ -77,11 +77,11 @@ data.csv
     ├── label (target)
 ```
 
-⚠️ Dataset is not included due to privacy / sensitivity considerations.
+ Dataset is not included due to privacy / sensitivity considerations.
 
 ---
 
-## ⚙️ Features Implemented
+##  Features Implemented
 
 ✔ Text preprocessing pipeline
 ✔ NLP feature extraction
@@ -91,7 +91,7 @@ data.csv
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 Clone repository:
 
@@ -116,7 +116,7 @@ nltk.download('stopwords')
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 Run the notebook:
 
@@ -134,7 +134,7 @@ Execute cells sequentially.
 
 ---
 
-## 📊 Workflow Summary
+##  Workflow Summary
 
 1️⃣ Load dataset
 2️⃣ Clean & preprocess text
@@ -145,7 +145,7 @@ Execute cells sequentially.
 
 ---
 
-## 🔬 Key Learning Outcomes
+##  Key Learning Outcomes
 
 ✔ Unstructured medical text can be quantified
 ✔ NLP is critical for healthcare analytics
@@ -154,7 +154,7 @@ Execute cells sequentially.
 
 ---
 
-## ⚠️ Important Notes
+##  Important Notes
 
 * Clinical data may contain sensitive information
 * Ensure anonymization before use
@@ -163,7 +163,7 @@ Execute cells sequentially.
 
 ---
 
-## 🧩 Dependencies
+##  Dependencies
 
 * Python 3.x
 * Pandas
@@ -174,7 +174,7 @@ Execute cells sequentially.
 
 ---
 
-## 📜 Ethical & Privacy Considerations
+##  Ethical & Privacy Considerations
 
 Healthcare NLP projects must comply with:
 
@@ -184,7 +184,7 @@ Healthcare NLP projects must comply with:
 
 ---
 
-## 📜 License
+##  License
 
 For **academic / research use only**.
 
